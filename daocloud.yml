@@ -1,10 +1,5 @@
 image:  daocloud.io/trainchou/docker-ghost
 
-#services:
-#    - mongodb
-#    - mysql
-#    - redis
-
 env:
     - MYENV = "hello"
 
