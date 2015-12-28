@@ -1,4 +1,5 @@
 # docker-ghost
+--
 Docker image that allows running [Ghost](https://github.com/TryGhost/Ghost) in production mode,
 and is a bit more configurable than the [official Ghost Docker image](https://registry.hub.docker.com/_/ghost/).
 
