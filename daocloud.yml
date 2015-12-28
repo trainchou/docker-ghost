@@ -1,4 +1,4 @@
-image:  daocloud.io/trainchou/docker-ghost
+image: daocloud/ci-node:0.12 
 
 env:
     - MYENV = "hello"
